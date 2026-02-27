@@ -103,5 +103,4 @@ Junior Cybersecurity Engineer with hands-on experience in infrastructure and clo
 ### 📫 How to reach me
 - 📧 lorenzo.porras.duque@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/lorenzoporrasduque)
-- 🐙 GitHub: [@LorenzoPorrasDuque](https://github.com/LorenzoPorrasDuque)
 
