@@ -1,17 +1,17 @@
-# Hi there, I'm Lorenzo Porras Duque 👋
+# Hi there, I'm Lorenzo Porras Duque 
 
-## 🛡️ Junior Cybersecurity Engineer / Systems & Computer Engineer
+##  Junior Cybersecurity Engineer / Systems & Computer Engineer
 
-🎓 Systems & Computer Engineer — **Universidad EIA**, Colombia
-🏛️ Registered with **COPNIA** (Consejo Profesional Nacional de Ingeniería) — No. **011129-0817879 ANT**
-📚 Currently enrolled in a **Master's in Cybersecurity** — **UCAM** (Universidad Católica de Murcia), Spain
-🏅 Certified: **Cybersecurity Certified Expert** · **ISO/IEC 27001 Implementer** · **DevSecOps Certified Associate** · **DevOps Engineer**
+Systems & Computer Engineer — **Universidad EIA**, Colombia
+Registered with **COPNIA** (Consejo Profesional Nacional de Ingeniería) — No. **011129-0817879 ANT**
+Currently enrolled in a **Master's in Cybersecurity** — **UCAM** (Universidad Católica de Murcia), Spain
+Certified: **Cybersecurity Certified Expert** · **ISO/IEC 27001 Implementer** · **DevSecOps Certified Associate** · **DevOps Engineer**
 
 Junior Cybersecurity Engineer with hands-on experience in infrastructure and cloud security, focused on vulnerability identification and risk assessment. Practical use of penetration testing and vulnerability scanning tools such as **Nmap**, **SQLmap**, **Nessus** and **OWASP ZAP** to identify misconfigurations, outdated components and OWASP Top 10 vulnerabilities. I maintain a personal homelab on **Proxmox** with Linux VMs, secured with **WireGuard VPN** and network segmentation, where I practice real-world security scenarios.
 
 ---
 
-### 💼 Experience
+###  Experience
 
 **Cyber Security Engineer Intern** · HACEB S.A., Colombia · *Jan 2025 – Jul 2025*
 - Conducted vulnerability assessments on production web applications, identifying risks related to outdated software and security misconfigurations.
@@ -21,7 +21,7 @@ Junior Cybersecurity Engineer with hands-on experience in infrastructure and clo
 
 ---
 
-### 🎓 Education
+###  Education
 
 | Degree | Institution | Period |
 |---|---|---|
@@ -31,31 +31,31 @@ Junior Cybersecurity Engineer with hands-on experience in infrastructure and clo
 
 ---
 
-### 🔭 What I'm working on
+###  What I'm working on
 - Deepening cloud and infrastructure security skills through real-world homelab experiments
 - Exploring advanced penetration testing, network security, and vulnerability analysis
 - Building open-source security tools to grow my portfolio
 
-### 🌱 Currently learning
+###  Currently learning
 - Advanced cybersecurity concepts through my **Master's in Cybersecurity** (UCAM)
 - Threat analysis and secure infrastructure design
 - CTF (Capture The Flag) challenges
 - Secure coding practices in Go and Rust
 
-### 💬 Ask me about
+###  Ask me about
 - Vulnerability assessment & penetration testing tools
 - Infrastructure security and homelab setups
 - Getting started in information security
 - DevSecOps practices
 
-### 🤝 Looking to collaborate on
+###  Looking to collaborate on
 - Open-source cybersecurity tools
 - Security research projects
 - CTF teams
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 **Languages**
 
@@ -90,17 +90,17 @@ Junior Cybersecurity Engineer with hands-on experience in infrastructure and clo
 
 ---
 
-### 🏅 Certifications
+###  Certifications
 
-- 🔐 **Cybersecurity Certified Expert** — Aug 2025
-- 📋 **ISO/IEC 27001 Implementer Certified** — Sept 2025
-- ⚙️ **DevSecOps Certified Associate** — Sept 2025
-- 🚀 **DevOps Engineer Certified** — Sept 2025
+- **Cybersecurity Certified Expert** — Aug 2025
+-  **ISO/IEC 27001 Implementer Certified** — Sept 2025
+-  **DevSecOps Certified Associate** — Sept 2025
+-  **DevOps Engineer Certified** — Sept 2025
 
 ---
 
 
-### 📫 How to reach me
-- 📧 lorenzo.porras.duque@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/lorenzoporrasduque)
+### How to reach me
+-  lorenzo.porras.duque@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/lorenzoporrasduque)
 
