@@ -99,23 +99,6 @@ Junior Cybersecurity Engineer with hands-on experience in infrastructure and clo
 
 ---
 
-### 🚀 Impactful Project Ideas
-
-Here are some project ideas that can significantly strengthen your profile as a Security-focused Software Engineer:
-
-| Project | Stack | Why It Stands Out |
-|---|---|---|
-| **Cloud Security Scanner** | Go + AWS/GCP/Azure SDKs | Scans cloud infrastructure for misconfigurations (open S3 buckets, permissive IAM roles). Highly relevant in the industry. |
-| **Network Packet Analyzer** | Rust + libpcap | A fast, memory-safe packet sniffer/analyzer. Showcases Rust's strengths and low-level networking knowledge. |
-| **CTF Challenge Platform** | Python/Go + Docker | A self-hosted platform for CTF challenges. Demonstrates both offensive and defensive security skills plus DevOps. |
-| **Secret Scanner CLI** | Go | A command-line tool that scans git repos and code for leaked API keys, tokens, and credentials (like truffleHog). |
-| **Serverless Honeypot** | Python/Go + AWS Lambda | Deploy a honeypot on AWS Lambda that logs and alerts on intrusion attempts. Shows cloud + security skills. |
-| **Infrastructure-as-Code Security Linter** | Rust/Go | A tool that lints Terraform/CloudFormation templates for security best practices. |
-| **Secure Notes App** | Rust (backend) + React | End-to-end encrypted notes app, demonstrating secure coding practices and cryptography. |
-
-> 💡 **Tip:** Pick 1–2 of these, build them publicly on GitHub with good documentation and a demo, and they'll make a strong impression on recruiters and the security community alike.
-
----
 
 ### 📫 How to reach me
 - 📧 lorenzo.porras.duque@gmail.com
