@@ -44,16 +44,7 @@ I'm passionate about cybersecurity and building tools that help make systems mor
 
 ---
 
-### 📈 GitHub Stats
-
-![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoPorrasDuque&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPorrasDuque&layout=compact&theme=dark&hide_border=true)
-
----
 
 ### 📫 How to reach me
 - GitHub: [@LorenzoPorrasDuque](https://github.com/LorenzoPorrasDuque)
 
----
-
-⚡ *"Security is not a product, but a process."* — Bruce Schneier
