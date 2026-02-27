@@ -4,6 +4,8 @@
 
 🎓 Software Engineer graduated from **Universidad EIA**, Colombia
 🏛️ Registered with **COPNIA** (Consejo Profesional Nacional de Ingeniería) — No. **011129-0817879 ANT**
+📚 Currently pursuing a **Master's in Cybersecurity** — Campus Internacional de Ciberseguridad, validated by **UCAM** (Universidad Católica de Murcia)
+🏅 Working toward the **eJPT** (eLearnSecurity Junior Penetration Tester) certification via **INE**
 
 I'm passionate about cybersecurity and building tools that help make systems more secure. I'm currently working on small projects to grow my skills and showcase my knowledge in the field.
 
@@ -15,7 +17,8 @@ I'm passionate about cybersecurity and building tools that help make systems mor
 - Growing my presence in the security community
 
 ### 🌱 Currently learning
-- Penetration testing techniques
+- Cybersecurity concepts through a **Master's in Cybersecurity** (Campus Internacional de Ciberseguridad / UCAM)
+- Penetration testing techniques — preparing for the **eJPT** certification (INE)
 - Secure coding practices
 - CTF (Capture The Flag) challenges
 
