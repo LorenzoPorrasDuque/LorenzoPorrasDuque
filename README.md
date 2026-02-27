@@ -1,6 +1,9 @@
 # Hi there, I'm Lorenzo Porras Duque 👋
 
-## 🛡️ Cybersecurity Enthusiast & Developer
+## 🛡️ Software Engineer | Cybersecurity Enthusiast
+
+🎓 Software Engineer graduated from **Universidad EIA**, Colombia
+🏛️ Registered with **COPNIA** (Consejo Profesional Nacional de Ingeniería) — No. **011129-0817879 ANT**
 
 I'm passionate about cybersecurity and building tools that help make systems more secure. I'm currently working on small projects to grow my skills and showcase my knowledge in the field.
 
