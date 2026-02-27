@@ -1,6 +1,6 @@
 # Hi there, I'm Lorenzo Porras Duque 👋
 
-## 🛡️ Junior Cybersecurity Engineer
+## 🛡️ Junior Cybersecurity Engineer / Systems & Computer Engineer
 
 🎓 Systems & Computer Engineer — **Universidad EIA**, Colombia
 🏛️ Registered with **COPNIA** (Consejo Profesional Nacional de Ingeniería) — No. **011129-0817879 ANT**
